@@ -20,7 +20,11 @@ export default {
         "Dark-grayish-blue": "hsl(232, 10%, 55%)",
         "Grayish blue": "hsl(210, 4%, 67%)",
         "White": "hsl(0, 0%, 100%)",
-      }
+      },
+      fontFamily: {
+        "Barlow": ['Barlow', "sans-serif"],
+        "Fraunces": ['Fraunces', "serif"],
+      },
     },
   },
   plugins: [],
