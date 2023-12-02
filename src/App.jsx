@@ -5,10 +5,8 @@ function App() {
 
   return (
     <>
-    <div className="">
     <Header />
     <Main />
-    </div>
     </>
   )
 }
