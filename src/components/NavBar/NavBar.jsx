@@ -19,9 +19,9 @@ const NavBar = () => {
         <li className='cursor-pointer'>About</li>
         <li className='cursor-pointer'>Services</li>
         <li className='cursor-pointer'>Projects</li>
-        <li className='cursor-pointer bg-Yellow w-[135px] h-[46px] grid place-content-center rounded-full font-Fraunces text-Very-dark-desaturated-blue text-sm sm:bg-white sm:hover:bg-opacity-25 sm:hover:text-white'>CONTACT</li>
+        <button className='cursor-pointer bg-Yellow w-[135px] h-[46px] grid place-content-center rounded-full font-Fraunces text-Very-dark-desaturated-blue text-sm sm:bg-white sm:hover:bg-opacity-25 sm:hover:text-white'>CONTACT</button>
       </ul>
-      <div className='cursor-pointer sm:hidden'  onClick={handleClick}>
+      <div className='cursor-pointer sm:hidden' onClick={handleClick}>
         <img src={burgerMenu} alt="Hamburger menu" />
       </div>
     </nav>

@@ -1,7 +1,11 @@
 
-const Text = () => {
+const Text = ({ title, text, color }) => {
   return (
-    <div>Text</div>
+    <div>
+      <h2>{title}</h2>
+      <p>{text}</p>
+      <button>Learn More</button>
+    </div>
   )
 }
 
