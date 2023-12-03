@@ -8,15 +8,15 @@ import glassDesktop from "../../assets/desktop/image-stand-out.jpg"
 
 const Services = () => {
   return (
-    <section>
-      <Image
-        imgMobile={eggMobile}
-        imgDesktop={eggDesktop} />
+    <section className="tablet:grid tablet:grid-cols-2">
       <Text
         title="Transform your brand"
         text="We are a full-service creative agency specializing in helping brands grow fast. 
   Engage your clients through compelling visuals that do most of the marketing for you."
         color="bg-Yellow" />
+      <Image
+        imgMobile={eggMobile}
+        imgDesktop={eggDesktop} />
       <Image
         imgMobile={glassMobile}
         imgDesktop={glassDesktop} />
