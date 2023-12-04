@@ -9,7 +9,6 @@ import glassDesktop from "../../assets/desktop/image-stand-out.jpg"
 const Services = () => {
   return (
     <section className="tablet:grid tablet:grid-cols-2">
-      {/*order solo funciona cuando el elemento padre tiene grid*/}
       <Image
         order="order-2"
         imgMobile={eggMobile}
