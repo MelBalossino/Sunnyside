@@ -11,7 +11,7 @@ import sugarCubesDesktop from '../../assets/desktop/image-gallery-sugarcubes.jpg
 
 const ImagesGallery = () => {
     return (
-        <div>
+        <div className='grid grid-cols-2 sm:flex'>
             <Image
                 imgMobile={milkBottlesMobile}
                 imgDesktop={milkBottlesDesktop}
