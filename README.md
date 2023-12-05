@@ -1,3 +1,6 @@
+<img src="./miVersionDesktop.png" alt="" width="1000px" /> 
+<br /> 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
