@@ -3,6 +3,7 @@ import Main from "./components/Main/Main"
 import Services from "./components/Services/Services"
 import TestimonialsContainer from "./components/TestimonialsContainer/TestimonialsContainer"
 import ImagesGallery from "./components/ImagesGallery/ImagesGallery"
+import Footer from "./components/Footer/Footer"
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <Services />
     <TestimonialsContainer />
     <ImagesGallery />
+    <Footer />
     </main>
   )
 }

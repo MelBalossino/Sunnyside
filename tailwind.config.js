@@ -13,6 +13,7 @@ export default {
         "Dark-desaturated-cyan": "hsl(167, 40%, 24%)",
         "Dark-blue": "hsl(198, 62%, 26%)",
         "Dark-moderate-cyan": "hsl(168, 34%, 41%)",
+        "Footer-green": "#90d4c6",
 
         //Neutrals
         "Very-dark-desaturated-blue": "hsl(212, 27%, 19%)",
