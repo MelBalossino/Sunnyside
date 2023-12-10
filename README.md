@@ -25,7 +25,9 @@ Se trabajó en:
 <br />
 
 ## 🔎 Deploy
+https://melbalossino.github.io/Sunnyside-agency/
 
+Nota: _El max-width de este proyecto es de 1440 px debido a la resolución de las imágenes proporcionadas._
 <br />
 
 ## 🛠️ Herramientas implementadas 
