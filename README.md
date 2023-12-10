@@ -1,7 +1,7 @@
 <h1 align="center"> Landing Page: Sunnyside Agency </h1>
 
 <div align="center">
-   Solución para el desafío de  <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef" target="_blank">frontendmentor.io</a>.
+   Solución para el desafío de  <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef" target="_blank">frontendmentor.io</a>
 </div>
 <br>
 <img src="./banner.png" alt="" width="1000px" />
@@ -25,7 +25,7 @@ Se trabajó en:
 <br />
 
 ## 🔎 Deploy
-https://melbalossino.github.io/Sunnyside-agency/
+🔗 <a href="https://melbalossino.github.io/Sunnyside-agency/" target="_blank">Visitar Sunnyside agency</a>
 
 Nota: _El max-width de este proyecto es de 1440 px._
 <br />
