@@ -1,7 +1,6 @@
 <h1 align="center"> Landing Page: Sunnyside Agency </h1>
-
 <div align="center">
-   Solución para el desafío de  <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef" target="_blank">frontendmentor.io</a>.
+   Solución para el desafío de  <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef" target="_blank">frontendmentor.io</a>
 </div>
 <br>
 <img src="./banner.png" alt="" width="1000px" />
@@ -13,7 +12,7 @@ Este desafío se centra principalmente en HTML y estilos aplicados con Tailwind.
 
 Los usuarios podrán:
 
-- Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo (móvil, tablet y escritorio hasta 1400 píxeles debido a la resolución de las imágenes entregadas para el desarrollo).
+- Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo (móvil, tablet y escritorio hasta 1440 píxeles debido a la resolución de las imágenes entregadas para el desarrollo).
 - Ver estados de desplazamiento para todos los elementos interactivos en la página.
 
 Se trabajó en:
@@ -25,9 +24,17 @@ Se trabajó en:
 <br />
 
 ## 🔎 Deploy
-
+<div align="center">
+  <h3>
+    <a href="https://melbalossino.github.io/Sunnyside-agency/" target="_blank" >
+      🔗 Visitar Sunnyside agency
+    </a>
+</div>
 <br />
-
+     
+_Nota: El max-width de este proyecto es de 1440 px._
+<br />
+<br />
 ## 🛠️ Herramientas implementadas 
   - Tailwind
   - HTML5
