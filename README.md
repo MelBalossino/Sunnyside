@@ -13,7 +13,7 @@ Este desafío se centra principalmente en HTML y estilos aplicados con Tailwind.
 
 Los usuarios podrán:
 
-- Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo (móvil, tablet y escritorio hasta 1400 píxeles debido a la resolución de las imágenes entregadas para el desarrollo).
+- Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo (móvil, tablet y escritorio hasta 1440 píxeles debido a la resolución de las imágenes entregadas para el desarrollo).
 - Ver estados de desplazamiento para todos los elementos interactivos en la página.
 
 Se trabajó en:
@@ -27,7 +27,7 @@ Se trabajó en:
 ## 🔎 Deploy
 https://melbalossino.github.io/Sunnyside-agency/
 
-Nota: _El max-width de este proyecto es de 1440 px debido a la resolución de las imágenes proporcionadas._
+Nota: _El max-width de este proyecto es de 1440 px._
 <br />
 
 ## 🛠️ Herramientas implementadas 
