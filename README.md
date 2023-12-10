@@ -7,21 +7,22 @@
 <img src="./banner.png" alt="" width="1000px" />
 
 ## ☀️ Sobre el proyecto
-Desarrollo de una página de destino que se parezca lo más posible al diseño proporcionado.
+Desarrollo de una página de destino que se asemeje lo más posible al diseño proporcionado.
 
-Este desafío se centra principalmente en HTML y estilos aplicados con tailwind. Se incluye un poco de JS para alternar la navegación móvil. 
+Este desafío se centra principalmente en HTML y estilos aplicados con Tailwind. Se incluye un poco de JavaScript para alternar la navegación móvil.
 
 Los usuarios podrán:
 
-- Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo (mobile, tablet y desktop hasta 1400 pixeles debido a la resolución de las imágenes entregadas para el desarrollo).
+- Ver el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo (móvil, tablet y escritorio hasta 1400 píxeles debido a la resolución de las imágenes entregadas para el desarrollo).
 - Ver estados de desplazamiento para todos los elementos interactivos en la página.
 
-Se trabajó:
-- HTML semántico
-- Diseño responsive
-- Flex
-- Grid
-- Mobile-first workflow
+Se trabajó en:
+- HTML semántico.
+- Diseño responsive.
+- Flexbox.
+- Grid.
+- Workflow orientado a móviles primero (Mobile-first workflow).
+<br />
 
 ## 🔎 Deploy
 
