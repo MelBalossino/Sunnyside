@@ -25,8 +25,13 @@ Se trabajó en:
 <br />
 
 ## 🔎 Deploy
-🔗 <a href="https://melbalossino.github.io/Sunnyside-agency/" target="_blank">Visitar Sunnyside agency</a>
-
+<div align="center">
+  <h3>
+    <a href="https://melbalossino.github.io/Sunnyside-agency/" color="white">
+      🔗 Visitar Sunnyside agency
+    </a>
+</div>
+<br />
 Nota: _El max-width de este proyecto es de 1440 px._
 <br />
 
