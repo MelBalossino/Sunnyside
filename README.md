@@ -2,7 +2,12 @@
 <div align="center">
    Solución para el desafío de  <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef" target="_blank">frontendmentor.io</a>
 </div>
-<br>
+<div align="center">
+<br />
+   
+   ![Estado](https://img.shields.io/badge/Estado:-COMPLETO-green)
+
+</div>
 <img src="./banner.png" alt="" width="1000px" />
 
 ## ☀️ Sobre el proyecto
