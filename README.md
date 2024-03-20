@@ -8,7 +8,7 @@
    ![Estado](https://img.shields.io/badge/Estado:-COMPLETO-green)
 
 </div>
-<img src="./banner.png" alt="" width="1000px" />
+<img src="public\readme\responsive.PNG" alt="" width="1000px" />
 
 ## ☀️ Sobre el proyecto
 Desarrollo de una página de destino que se asemeje lo más posible al diseño proporcionado.
@@ -55,14 +55,14 @@ _Nota: El max-width de este proyecto es de 1440 px._
 <br />
 
 ## 📸 Preview del sitio
-<img src="./miVersionDesktop.png" alt="" width="1000px" /> 
+<img src="public\readme\miVersionDesktop.png" alt="" width="1000px" /> 
 <br /><br />
 <div align="center">
-<img src="./miVersionMobile.png" alt="" width="412px" />
+<img src="public\readme\miVersionMobile.png" alt="" width="412px" />
 </div>
 <br /><br />
 <div align="center">
-<img src="./miVersionMobileConMen%C3%BAAbierto.png" alt="" width="412px" />
+<img src="public\readme\miVersionMobileConMenúAbierto.png" alt="" width="412px" />
 </div>
 <br />
 
